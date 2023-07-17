@@ -51,3 +51,8 @@ for image_path in image_paths:
         cv2.destroyAllWindows()
         
         break
+    
+    
+
+    #  when we start the program it should find out the face in the folder and
+    #  show the matching image and reference image side by side.
